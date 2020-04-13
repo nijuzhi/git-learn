@@ -9,3 +9,5 @@ Creating a new branch is quick and simple.
 test commit2
 
 test commit3
+
+test bug dev
